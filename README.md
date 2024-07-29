@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Backend development and Unity
 - 📫 How to reach me: TBA
 - 😄 Pronouns: Don't really care, use whatever you want !
-- ⚡ Fun fact: I like gaming and used to have a dream to become a game developer, which is also why I'm learning Unity for fun now.
+- ⚡ Fun fact: ...
 
 <!---
 ElShaddollMidrash/ElShaddollMidrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
